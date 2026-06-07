@@ -1,4 +1,4 @@
-# Week 1 - Python Basics & Data Structures
+# 1 - Python Basics & Data Structures
 
 ## Topics Covered
 
