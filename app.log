@@ -1,0 +1,12 @@
+
+ERROR:root:Error occured: invalid literal for int() with base 10: 'john'
+ERROR:root:Error: employees.__init__() missing 2 required positional arguments: 'name' and 'salary'
+ERROR:root:Error: employees.__init__() missing 2 required positional arguments: 'name' and 'salary'
+ERROR:root:Error: name 'name' is not defined
+ERROR:root:Error: employees.__init__() missing 2 required positional arguments: 'name' and 'salary'
+ERROR:root:Error: employees.__init__() missing 2 required positional arguments: 'name' and 'salary'
+ERROR:root:Error: name 'salary' is not defined
+ERROR:root:Error: name 'salary' is not defined
+ERROR:root:Error: name 'name' is not defined
+ERROR:root:Error: Salary does not be an negative
+ERROR:root:Error: invalid literal for int() with base 10: '2000-'
